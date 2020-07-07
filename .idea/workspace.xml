@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a560625-9c92-437e-8237-0713ed74c668" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ValidSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KadanesAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KadanesAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +46,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ValidSubstring">
     <configuration name="KadanesAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KadanesAlgorithm" />
       <module name="ALGORITHMS" />
@@ -55,8 +56,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidSubstring" />
+      <module name="ALGORITHMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidSubstring" />
         <item itemvalue="Application.KadanesAlgorithm" />
       </list>
     </recent_temporary>
@@ -87,21 +96,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="461" height="600" key="GridCell.Tab.0.bottom" timestamp="1591100339315">
+    <state width="461" height="393" key="GridCell.Tab.0.bottom" timestamp="1594146772250">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="461" height="600" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591100339315" />
-    <state width="461" height="600" key="GridCell.Tab.0.center" timestamp="1591100339315">
+    <state width="461" height="393" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594146772250" />
+    <state width="461" height="393" key="GridCell.Tab.0.center" timestamp="1594146772249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="461" height="600" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591100339315" />
-    <state width="461" height="600" key="GridCell.Tab.0.left" timestamp="1591100339315">
+    <state width="461" height="393" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594146772249" />
+    <state width="461" height="393" key="GridCell.Tab.0.left" timestamp="1594146772248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="461" height="600" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591100339315" />
-    <state width="461" height="600" key="GridCell.Tab.0.right" timestamp="1591100339315">
+    <state width="461" height="393" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594146772248" />
+    <state width="461" height="393" key="GridCell.Tab.0.right" timestamp="1594146772250">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="461" height="600" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591100339315" />
+    <state width="461" height="393" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594146772250" />
   </component>
 </project>
